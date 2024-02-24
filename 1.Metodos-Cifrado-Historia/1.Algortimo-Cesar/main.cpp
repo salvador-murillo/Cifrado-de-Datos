@@ -6,5 +6,5 @@ Programa #1: Metodos de Cifrado en la historia
 using namespace std;
 
 int main(){
-    cout << "PRUEBA" << endl;
+    cout << "Algortimo Cesar" << endl;
 }
