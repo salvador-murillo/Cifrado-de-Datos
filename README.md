@@ -1,5 +1,5 @@
 ![cucea](assets/unnamed.png)
-# Estructura de Datos
+# CIFRADO DE DATOS
 
 Materia de la carrera Tecnlogias de la Información
 
@@ -7,7 +7,7 @@ Materia de la carrera Tecnlogias de la Información
 Al momento de presionar el boton 'Run' en Repl.it aparecera una lista con los programas realizados hasta la fecha, basta solo con colocar el numero del programa y dar enter ejemplo:
 
 ```
-            Estructura de Datos
+            CIFRADO DE DATOS
 
 Seleccione programa a ejecutar:
 
