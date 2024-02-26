@@ -37,7 +37,7 @@ int main() {
     int opc=0, salir=0;
     do{
       cout << "\033[2J\033[0;0H";
-      cout << "\tPractica #1 - Metodos de Cifrado en la Historia\n\tAlgortimo Cesar\n" << endl;
+      cout << "\tPractica #1 - Metodos de Cifrado en la Historia\n\tAlgoritmo Cesar\n" << endl;
   
       string opcion;
       cout << "¿Desea cifrar (C) o descifrar (D) un mensaje? ";
